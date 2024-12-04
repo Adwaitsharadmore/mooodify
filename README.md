@@ -1,2 +1,2 @@
 # mooodify
-Real time face emotion detector
+Real time face emotion detector using tensorflow and keras using adam algorithm
